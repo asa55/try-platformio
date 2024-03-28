@@ -1,0 +1,12 @@
+{
+    "name": "PlatformIO in Codespaces",
+    "image": "ubuntu:latest",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot",
+                "platformio.platformio-ide"
+            ]
+        }
+    }
+}
